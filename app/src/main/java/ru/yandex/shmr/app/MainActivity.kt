@@ -26,6 +26,7 @@ import ru.yandex.shmr.feature3.Feature3Screen
 import ru.yandex.shmr.network.networkRepository
 import ru.yandex.shmr.app.ui.theme.Shmr25Theme
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
